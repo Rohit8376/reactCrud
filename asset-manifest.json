@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactCrud/static/css/main.46fe51b5.chunk.css",
+    "main.js": "/reactCrud/static/js/main.1f5434d0.chunk.js",
+    "main.js.map": "/reactCrud/static/js/main.1f5434d0.chunk.js.map",
+    "runtime-main.js": "/reactCrud/static/js/runtime-main.b8395bfc.js",
+    "runtime-main.js.map": "/reactCrud/static/js/runtime-main.b8395bfc.js.map",
+    "static/js/2.5d59d48c.chunk.js": "/reactCrud/static/js/2.5d59d48c.chunk.js",
+    "static/js/2.5d59d48c.chunk.js.map": "/reactCrud/static/js/2.5d59d48c.chunk.js.map",
+    "index.html": "/reactCrud/index.html",
+    "precache-manifest.6463460ebc8a87a4aed946a90a2e9832.js": "/reactCrud/precache-manifest.6463460ebc8a87a4aed946a90a2e9832.js",
+    "service-worker.js": "/reactCrud/service-worker.js",
+    "static/css/main.46fe51b5.chunk.css.map": "/reactCrud/static/css/main.46fe51b5.chunk.css.map",
+    "static/js/2.5d59d48c.chunk.js.LICENSE.txt": "/reactCrud/static/js/2.5d59d48c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8395bfc.js",
+    "static/js/2.5d59d48c.chunk.js",
+    "static/css/main.46fe51b5.chunk.css",
+    "static/js/main.1f5434d0.chunk.js"
+  ]
+}
